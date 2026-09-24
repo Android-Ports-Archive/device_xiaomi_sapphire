@@ -734,7 +734,6 @@ vendor/etc/libnfc-hal-st.conf
 vendor/etc/libnfc-nci.conf
 vendor/etc/st21nfc_conf.txt
 vendor/lib64/libstfactory-vendor.so
-vendor/lib/nfc_nci.st21nfc.st.so
 vendor/lib64/nfc_nci.st21nfc.st.so
 
 # Sensors
